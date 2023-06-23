@@ -85,6 +85,17 @@
     "image": ""
   },
   {
+    "name": "CharmVerse",
+    "name_en": "CharmVerse",
+    "desc": "CharmVerse是终极运营和社区管理解决方案。Token门控、会员目录、论坛、建议、赏金等。与您的社区进行无缝协作和互动，用CharmVerse为您的团队提供动力。",
+    "desc_en": "CharmVerse is the ultimate operational and community management solution. Token-gating, member directories, forums, proposals, bounties, and more. Seamlessly collaborate and engage with your community. Power up your team with CharmVerse.",
+    "url": "https://www.charmverse.io/",
+    "logo": "/images/CharmVerse.png",
+    "image": "/images/CharmVerse.png",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources"
+  },
+  {
     "name": "Hop Protocol",
     "name_en": "Hop Protocol",
     "desc": "bridge",
